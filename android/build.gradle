@@ -49,6 +49,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.Athikur1:UsbSerial:6.1.0'
+    implementation 'com.github.Athikur1:UsbSerial:e2d6069ce7359e446d74f08148486414bd5fcf49'
 }
 
